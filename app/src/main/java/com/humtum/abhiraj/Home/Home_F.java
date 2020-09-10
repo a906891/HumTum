@@ -507,7 +507,7 @@ public void ShowAppLovinAdd()
                 }
                 Show_add();
 // Use a CustomTabsIntent.Builder to configure CustomTabsIntent.
-                String url1 = "https://135.win.qureka.com/";
+                String url1 = "https://kharedobecho.com/Home/DownloadApp";
                 CustomTabsIntent.Builder builder1 = new CustomTabsIntent.Builder();
 // set toolbar color and/or setting custom actions before invoking build()
 // Once ready, call CustomTabsIntent.Builder.build() to create a CustomTabsIntent
