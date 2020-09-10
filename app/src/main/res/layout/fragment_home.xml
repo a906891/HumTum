@@ -96,7 +96,6 @@
               android:textSize="24sp" />
 
 
-
             <LinearLayout
                 android:id="@+id/image"
                 android:layout_below="@id/textview"

@@ -73,8 +73,6 @@ dependencies {
     //TO UPDATE APP
     implementation 'com.google.android.play:core:1.8.0'
 
-
-
     // To add TensorFlow Lite library
     implementation 'org.tensorflow:tensorflow-lite:1.14.0'
     implementation 'org.tensorflow:tensorflow-lite-gpu:1.14.0'
